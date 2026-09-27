@@ -11,17 +11,9 @@ P2 license in Entra ID.<br />
 
 - Microsoft Azure Entra ID
   
-<h1>Fully Provisioning Accounts with P2 Licenses for Users (Azure)</h1> 
-This tutorial outlines the process of fully provisioning user accounts, assigning created users a
-P2 license in Entra ID.<br />
+<h2>Operating Systems Used </h2> 
 
-<h2>Environments and Technologies Used</h2> 
-
-- Microsoft Azure Entra ID
-
-  <h2>Operating Systems Used </h2> 
-
-  - Windows 11
+ - Windows 11
 
  
 <h2>Assigned Licenses</h2> 
